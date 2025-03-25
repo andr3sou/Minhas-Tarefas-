@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Unless_tabela</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Preços dos produtos do mercadinho na promoção</h1>
+
+
+    <table>
+        <tr>
+            <th>Produto</th>
+            <th>Peso/Quantidade</th>
+            <th>Preço</th>
+            
+        </tr>
+        <tr>
+            <td>Leite</td>
+            <td>1L</td>
+            <td> 4,90$</td>
+            <tr>
+                <td>Alface </td>
+                <td>1kg</td>
+                <td> 5,00$ </td>
+            </tr>
+            <td>Carne</td>
+            <td>1kg</td>
+            <td> 29,90$ </td>
+            <tr>
+                <td>Pão de forma </td>
+                <td>450g</td>
+                <td>6,99$</td>
+            </tr>
+            <td>Arroz </td>
+            <td>5kg</td>
+            <td>23,90$</td>
+            <tr>
+                <td>Feijão </td>
+                <td>1kg</td>
+                <td>6,99$</td>
+            </tr>
+            <tr>
+                <td>Café </td>
+                <td>500g</td>
+                <td>19,90$</td>
+            </tr>
+        </tr>
+
+    </table>
+
+
+
+
+    <h2>Minha lista de compras</h2>
+    <ul>
+        <li>Arroz</li>
+        <li>Feijão</li>
+        <li>Café</li>
+        <li>Farinha</li>
+        <li>Leite</li>
+    </ul>
+</body>
+</html>
